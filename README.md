@@ -24,6 +24,7 @@ usb接口：支持
 
 ![](https://github.com/LeifengLI/images/blob/main/iamges/hp840g3/iShot2022-01-07%2016.16.16.png)
 ![](https://github.com/LeifengLI/images/blob/main/iamges/hp840g3/iShot2022-01-07%2016.16.59.png)
+![](https://github.com/LeifengLI/images/blob/main/iamges/hp840g3/iShot2022-01-07%2016.53.17.png)
 ![](https://github.com/LeifengLI/images/blob/main/iamges/hp840g3/iShot2022-01-07%2016.18.05.png)
 
 
